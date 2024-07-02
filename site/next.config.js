@@ -4,9 +4,9 @@ const nextConfig = {
   env: {
     name: 'HOP WORKSPACE',
     description: 'The official store for HOP supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'taimoorsiddiquiofficial.github.io',
-    contactUrl: 'taimoorsiddiquiofficial.github.io/support',
+    icon: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/img/logo.svg',
+    listUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0',
+    contactUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/support',
   },
   reactStrictMode: true,
   swcMinify: true,
